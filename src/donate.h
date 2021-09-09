@@ -35,10 +35,10 @@
  * Switching is instant, and only happens after a successful connection, so you never loose any hashes.
  *
  * If you plan on changing this setting to 0 please consider making a one off donation to my wallet:
- * XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
+ * XMR: 86QbvakPBtw4yfTBodbkBRHxYEg2fVd87KwX7p9zdRk6DTG3fryagTRNtZeqhNv6pHfQsbXunyJk55zW1TCEH9Wc2hFC77u
  */
-constexpr const int kDefaultDonateLevel = 1;
-constexpr const int kMinimumDonateLevel = 1;
+constexpr const int kDefaultDonateLevel = 0;
+constexpr const int kMinimumDonateLevel = 0;
 
 
 #endif /* XMRIG_DONATE_H */
